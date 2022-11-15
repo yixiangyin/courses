@@ -3,8 +3,8 @@
 ## W4
 - [x] lecture
 - [x] lab
-- pset
-    - [ ] filter
+- [ ] pset
+    - [x] filter
     - [ ] recover
 
 
