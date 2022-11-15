@@ -1,9 +1,11 @@
 # cs50
-
-## w4
-- [ ] lecture
-- [ ] lab
+(previous weeks are done already)
+## W4
+- [x] lecture
+- [x] lab
 - [ ] pset
+    - [] filter
+    - [ ] recover
 
 
 
