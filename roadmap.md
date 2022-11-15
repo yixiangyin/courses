@@ -3,11 +3,13 @@
 ## W4
 - [x] lecture
 - [x] lab
-- [ ] pset
+- [x] pset
     - [x] filter
     - [ ] recover
-
-
+## W5
+- [ ] lecture
+- [ ] lab
+- [ ] pset
 
 
 
