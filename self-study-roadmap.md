@@ -6,18 +6,18 @@
 - [x] lab  
 - [x] pset  
     - [x] filter  
-    - [ ] recover  
+    - [x] recover  
 
-## W5  
-- [ ] lecture  
+## W5
+- [ ] lecture 
 - [ ] lab  
 - [ ] pset  
 
 
 
 
-# cp  
+# [cp](http://web.stanford.edu/class/cs97si/)  
 
 
-# missing semester  
+# [missing semester](https://missing.csail.mit.edu/)
 
