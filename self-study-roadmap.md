@@ -5,11 +5,11 @@
 - [x] lecture  
 - [x] lab  
 - [x] pset  
-    - [x] filter  
+    - [x] filter(less comfortable)  
     - [x] recover  
 
 ## W5
-- [ ] lecture 
+- [ ] [lecture](https://cs50.harvard.edu/x/2022/weeks/5/) - 55:12
 - [ ] lab  
 - [ ] pset  
 
@@ -20,4 +20,4 @@
 
 
 # [missing semester](https://missing.csail.mit.edu/)
-
+This course has the best explanation on [git](https://missing.csail.mit.edu/2020/version-control/).  
