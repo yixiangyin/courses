@@ -3,17 +3,17 @@
 
 ## sed - a stream editor 
 > Terrible programming langauage except for replacement  
-s/a/b/: substitue a with b
-\* is 0 or more
-\+ is 1 or more
-? means zeor or 1
-. is any char
-[] : range
-| : choice
-g suffix: globally, the default is once
-^ match from the start of the line
-$ match the end of the line
-() indicate capture graph
+s/a/b/: substitue a with b   
+\* is 0 or more  
+\+ is 1 or more  
+? means zeor or 1  
+. is any char  
+[] : range  
+| : choice  
+g suffix: globally, the default is once  
+^ match from the start of the line  
+$ match the end of the line  
+() indicate capture graph  
 * refer to them by \[number of capture group] (start by 1)
 ## mis
 * regex is greedy. Suffix with ? makes it non-greedy
