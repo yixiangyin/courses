@@ -2,19 +2,20 @@
 [video](https://www.youtube.com/watch?time_continue=17&v=sz_dsktIjt4&feature=emb_logo) 
 
 ## sed - a stream editor 
-> Terrible programming langauage except for replacement  
-s/a/b/: substitue a with b   
-\* is 0 or more  
-\+ is 1 or more  
-? means zeor or 1  
-. is any char  
-[] : range  
-| : choice  
-g suffix: globally, the default is once  
-^ match from the start of the line  
-$ match the end of the line  
-() indicate capture graph  
-* refer to them by \[number of capture group] (start by 1)
+-  Terrible programming langauage except for replacement  
+### regex
+- s/a/b/: substitue a with b   
+- \* is 0 or more  
+- \+ is 1 or more  
+- ? means zero or 1  
+- . is any char  
+- [] : range  
+- | : choice  
+- g suffix: globally, the default is once  
+- ^ match from the start of the line  
+- $ match the end of the line  
+- () indicate capture graph
+- refer to them by \[number of capture group] (start by 1)
 ## mis
 * regex is greedy. Suffix with ? makes it non-greedy
 * with -E option to use modern syntax
@@ -26,15 +27,12 @@ $ match the end of the line
  - wc -l -> count line
  - awk '{print $2}'
      - column processor
-- paste -sd,
-- bc - calculator
-```timestamp 
- 34:41
- ```
-- R - programming language
+- `paste -sd,` -> merge
+- `bc` - calculator
+- R -> programming language
 - gnuplot
-- xargs
-- ffmpeg
+- xargs -> parse arguments from stdin
+- ffmpeg 
 - convert - image manipulation program
 - feh - image viewer
 
